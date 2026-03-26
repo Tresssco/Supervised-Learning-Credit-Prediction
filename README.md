@@ -29,6 +29,7 @@ supervised-learning-credit-prediction/
 │   ├── credit_train.csv       # Dataset de entrenamiento
 │   └── credit_test.csv        # Dataset de prueba
 │
+├── .gitignore                 # Archivos y carpetas ignorados por Git
 ├── notebook.ipynb             # Notebook principal con todo el análisis
 ├── requirements.txt           # Dependencias del proyecto
 └── README.md
