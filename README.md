@@ -6,7 +6,7 @@
 
 ##  Descripción
 
-Este proyecto forma parte del módulo de **Sistemas de Aprendizaxe Automáticos** y tiene como objetivo demostrar el uso de algoritmos de aprendizaje supervisado para resolver un problema de clasificación binaria.
+Este proyecto forma parte del módulo de **Sistemas de Machine Learning** y tiene como objetivo demostrar el uso de algoritmos de aprendizaje supervisado para resolver un problema de clasificación binaria.
 
 A partir de un dataset de una campaña de marketing telefónico bancario, se entrena y evalúa distintos modelos para predecir si un cliente acabará suscribiéndose a un crédito (`yes`/`no`).
 
